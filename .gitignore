@@ -1,4 +1,8 @@
-_site/
-.sass-cache/
-.jekyll-metadata
-.bundle
+```
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Test-specific cache
+tests/__pycache__/
+```
